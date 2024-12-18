@@ -1,17 +1,3 @@
-<div align="center">
-  <br />
-    <a href="https://your-live-demo-link" target="_blank">
-      <img src="https://your-image-link" alt="CryptoVerse Project Banner">
-    </a>
-  <br />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-  <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
-  <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="gsap" />
-</div>
-
 <h3 align="center">CryptoVerse</h3>
 
 ## 📌 <a name="table">Table of Contents</a>

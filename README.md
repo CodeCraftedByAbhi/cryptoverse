@@ -70,5 +70,4 @@ npm run dev
 
 ## <a name="links">🔗 Links</a>
 
-- [Live Demo](https://crypto-verse.example.com)
-- [GitHub Repository](https://github.com/your-username/crypto-verse)
+- [Live Demo](https://cryptoverse-seven-rose.vercel.app/)
